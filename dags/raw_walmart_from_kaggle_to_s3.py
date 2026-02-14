@@ -1,6 +1,6 @@
 """
-DAG: Olist E-commerce Pipeline
-Downloads Brazilian E-commerce Olist dataset from Kaggle and uploads to MinIO
+DAG: Walmart E-commerce Pipeline
+Downloads Walmart E-commerce dataset from Kaggle and uploads to MinIO
 """
 
 from airflow import DAG
